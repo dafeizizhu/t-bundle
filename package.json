@@ -1,0 +1,23 @@
+{
+  "name": "t-bundle",
+  "version": "1.0.0",
+  "description": "A bundle for t packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-bundle.git"
+  },
+  "keywords": [
+    "taf",
+    "bundle"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-bundle/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-bundle#readme"
+}
