@@ -1,6 +1,6 @@
 {
   "name": "t-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bundle for t packages",
   "main": "index.js",
   "scripts": {
