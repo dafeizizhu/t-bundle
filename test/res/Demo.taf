@@ -1,0 +1,16 @@
+module Demo
+{
+  struct DemoStruct
+  {
+    0 require int id;
+    1 require string name;
+    2 optional vector<string> list;
+  };
+
+  interface DemoF
+  {
+    string echo(string str);
+    DemoStruct assemble(int id, string name, vector<string> list);
+    vector<DemoStruct> replicate(string name, vector<string> list, int count);
+  };
+};
